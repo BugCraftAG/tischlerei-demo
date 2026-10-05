@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Werkzeichnung Sitzbank mit Stauraum">
+<title>Werkzeichnung Sitzbank mit Stauraum</title>
+<g fill="none" stroke="#2a2521" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+<rect x="40" y="140" width="320" height="10" rx="2"/>
+<rect x="44" y="150" width="312" height="52"/>
+<path d="M148 150 V202 M252 150 V202"/>
+<path d="M44 202 v6 h312 v-6" stroke-width="1"/>
+<path d="M44 140 V70 H356 V140"/>
+<path d="M64 76 V134" stroke-width="1"/>
+<path d="M86 76 V134" stroke-width="1"/>
+<path d="M108 76 V134" stroke-width="1"/>
+<path d="M130 76 V134" stroke-width="1"/>
+<path d="M152 76 V134" stroke-width="1"/>
+<path d="M174 76 V134" stroke-width="1"/>
+<path d="M196 76 V134" stroke-width="1"/>
+<path d="M218 76 V134" stroke-width="1"/>
+<path d="M240 76 V134" stroke-width="1"/>
+<path d="M262 76 V134" stroke-width="1"/>
+<path d="M284 76 V134" stroke-width="1"/>
+<path d="M306 76 V134" stroke-width="1"/>
+<path d="M328 76 V134" stroke-width="1"/>
+<path d="M350 76 V134" stroke-width="1"/>
+<path d="M20 208 H380" stroke-width="1" stroke-dasharray="1 4"/>
+<g stroke="#b0412a" stroke-width="1"><path d="M40 68 V42 M360 68 V42" stroke-dasharray="2 3"/><path d="M34 46 H366 M36 50 l8 -8 M356 50 l8 -8"/></g><text x="200.0" y="40" fill="#b0412a" stroke="none" font-family="ui-monospace,Consolas,monospace" font-size="11" text-anchor="middle">1800</text>
+<g stroke="#b0412a" stroke-width="1"><path d="M362 140 H372 M362 208 H372" stroke-dasharray="2 3"/><path d="M376 134 V214 M372 144 l8 -8 M372 212 l8 -8"/></g><text x="384" y="174.0" fill="#b0412a" stroke="none" font-family="ui-monospace,Consolas,monospace" font-size="11" transform="rotate(-90 384 174.0)" text-anchor="middle" dy="4">460</text>
+</g>
+</svg>

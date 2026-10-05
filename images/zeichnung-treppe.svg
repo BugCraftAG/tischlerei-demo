@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Werkzeichnung Treppe, Seitenansicht">
+<title>Werkzeichnung Treppe, Seitenansicht</title>
+<g fill="none" stroke="#2a2521" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+<path d="M50 222 V201 H84 V180 H118 V159 H152 V138 H186 V117 H220 V96 H254 V75 H288 V54 H322"/>
+<path d="M66 222 L322 64" stroke-width="1"/>
+<path d="M70 165 L330 4" stroke-width="2.2"/>
+<path d="M70 165 V201 M200 85 V108 M330 4 V54" stroke-width="1"/>
+<path d="M20 222 H380" stroke-width="1" stroke-dasharray="1 4"/>
+<g stroke="#b0412a" stroke-width="1"><path d="M360 48 V228 M356 58 l8 -8 M356 226 l8 -8"/></g><text x="368" y="138.0" fill="#b0412a" stroke="none" font-family="ui-monospace,Consolas,monospace" font-size="11" transform="rotate(-90 368 138.0)" text-anchor="middle" dy="4">2800</text>
+<g stroke="#b0412a" stroke-width="1"><path d="M112 196 H158 M114 200 l8 -8 M148 200 l8 -8"/></g><text x="135.0" y="190" fill="#b0412a" stroke="none" font-family="ui-monospace,Consolas,monospace" font-size="11" text-anchor="middle">270</text>
+</g>
+</svg>

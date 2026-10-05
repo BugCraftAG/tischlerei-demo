@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Werkzeichnung Einbauschrank unter der Dachschräge">
+<title>Werkzeichnung Einbauschrank unter der Dachschräge</title>
+<g fill="none" stroke="#2a2521" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+<path d="M30 220 V140 L370 30 V220"/>
+<path d="M20 140 L30 140 M20 134.0 L380 24.0" stroke-width="1" stroke-dasharray="6 4"/>
+<path d="M115 214 V115.5"/>
+<path d="M200 214 V88.0"/>
+<path d="M285 214 V60.5"/>
+<path d="M30 214 H370"/>
+<path d="M105 170 v14" stroke-width="2.4"/>
+<path d="M125 170 v14" stroke-width="2.4"/>
+<path d="M275 170 v14" stroke-width="2.4"/>
+<path d="M295 170 v14" stroke-width="2.4"/>
+<path d="M20 220 H380" stroke-width="1" stroke-dasharray="1 4"/>
+<g stroke="#b0412a" stroke-width="1"><path d="M24 246 H376 M26 250 l8 -8 M366 250 l8 -8"/></g><text x="200.0" y="240" fill="#b0412a" stroke="none" font-family="ui-monospace,Consolas,monospace" font-size="11" text-anchor="middle">3600</text>
+<g stroke="#b0412a" stroke-width="1"><path d="M16 134 V226 M12 144 l8 -8 M12 224 l8 -8"/></g><text x="24" y="180.0" fill="#b0412a" stroke="none" font-family="ui-monospace,Consolas,monospace" font-size="11" transform="rotate(-90 24 180.0)" text-anchor="middle" dy="4">1100</text>
+</g>
+</svg>
